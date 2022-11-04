@@ -1,3 +1,4 @@
 # final project
 # this is a project in java
-# this is a colaberation with the AP CSa class
+# this is the AP CSa class group project
+#   
